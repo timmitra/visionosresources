@@ -40,7 +40,7 @@ My collection of interesting visionOS code and resources
 #### Books
 - [Making Accessible visionOS Applications](https://a.co/d/63oiOAQ) - Robin Kanatzar
 
-  #### Who to Follow
+#### Who to Follow
 - [Matt Pfeiffer on X](https://x.com/MattPfeiffer/status/1820108984273023028)
 - [Sam Morais on X](https://x.com/SamuelMorais/status/1816182952893812826)
 
