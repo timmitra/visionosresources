@@ -5,6 +5,8 @@ My collection of interesting visionOS code and resources
 
 ##### General
 - [Step Into Vision](https://stepinto.vision/)
+- [Open and close windows in visionOS with SwiftUI](https://stepinto.vision/example-code/open-and-close-windows-in-visionos-with-swiftui/)
+- [Using Scene Phase to manage window state](https://stepinto.vision/example-code/using-scene-phase-to-manage-window-state/)
 
 
 ##### Shader Graph
