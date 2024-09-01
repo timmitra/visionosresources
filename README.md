@@ -6,6 +6,10 @@ My collection of interesting visionOS code and resources
 ##### Shader Graph
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
 
+##### SkyBox
+- [AI Generated Skybox](https://skybox.blockadelabs.com/)
+
+
 #### Hackathons
 
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
