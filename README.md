@@ -21,12 +21,10 @@ My collection of interesting visionOS code and resources
 - [Designing for visionOS - Human Interface Guidlines](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos/)
 - [Looking Ahead: Oliver Weidlich, Episode 381](https://youtu.be/JUYQgnVgJd4?si=u0IO03G1J1649ky9_)
 
-  #### Accessibility
+#### Accessibility
 - [Accessibility - Vision](https://www.apple.com/accessibility/vision/)
 
-
 #### Hackathons
-
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
 
 #### Videos
@@ -35,7 +33,6 @@ My collection of interesting visionOS code and resources
 - [I built an Apple Vision Pro app... visionOS tutorial](https://youtu.be/_xfZIr5sDLw?si=Engl5VUp-_QhnRp5)
 - [How To Get STARTED With Unity visionOS PolySpatial Tools! - Vision Pro Development](https://youtu.be/EtPaYKvzs6M?si=kgSyoAz8-85WgwSL)
 - [Develop for Apple Vision Pro with Unity’s PolySpatial | Play to Device, XR Simulator & visionOS](https://youtu.be/LYRJIewPiLU?si=VLsoK1b0dbf5X3dD)
-  
 
 #### Books
 - [Making Accessible visionOS Applications](https://a.co/d/63oiOAQ) - Robin Kanatzar
