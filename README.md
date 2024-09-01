@@ -49,7 +49,7 @@ My collection of interesting visionOS code and resources
 ### How to Contribute
 These simple instructions should be everything you need to get a new site included in the directory:
 
-[https://github.com/timmitra/visionosresources](Fork this repository) on GitHub.
+[Fork this repository](https://github.com/timmitra/visionosresources) on GitHub.
 Submit a pull request.
 Once the pull request is accepted and merged, this site will be re-generated and your link will magically appear! Thank you for wanting to contribute.
 
