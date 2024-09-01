@@ -9,6 +9,9 @@ My collection of interesting visionOS code and resources
 ##### SkyBox
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
 
+#### Design
+- [Designing for visionOS - Human Interface Guidlines](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos/)
+- [Looking Ahead: Oliver Weidlich, Episode 381](https://youtu.be/JUYQgnVgJd4?si=u0IO03G1J1649ky9_
 
 #### Hackathons
 
