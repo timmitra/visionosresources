@@ -6,6 +6,10 @@ My collection of interesting visionOS code and resources
 ##### Shader Graph
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
 
+#### Hackathons
+
+- [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
+
 #### My Courses
 
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
