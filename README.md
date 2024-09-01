@@ -25,6 +25,9 @@ My collection of interesting visionOS code and resources
 
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
 
+#### Books
+- [Making Accessible visionOS Applications](https://www.amazon.ca/Making-Accessible-visionOS-Applications-Kanatzar-ebook/dp/B0DDL2D42M)
+
 #### My Courses
 
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
