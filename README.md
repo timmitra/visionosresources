@@ -6,6 +6,8 @@ My collection of interesting visionOS code and resources
 ##### General
 - [Step Into Vision](https://stepinto.vision/)
 - [Open and close windows in visionOS with SwiftUI](https://stepinto.vision/example-code/open-and-close-windows-in-visionos-with-swiftui/)
+- [Open Window with a value](https://stepinto.vision/example-code/open-window-with-a-value/)
+- [Using Default Window Placement in visionOS](https://stepinto.vision/example-code/using-default-window-placement-in-visionos/)
 - [Using Scene Phase to manage window state](https://stepinto.vision/example-code/using-scene-phase-to-manage-window-state/)
 
 
