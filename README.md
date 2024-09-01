@@ -29,8 +29,8 @@ My collection of interesting visionOS code and resources
 
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
 
-  #### Videos
-    - [Your first Shader - Shader Graph Basics - Episode 3](https://youtu.be/IAR2izQxsxM?si=Y8Zoc8b4Ff0ZSKYb) not strickly visionOS but covers the basics.
+#### Videos
+- [Your first Shader - Shader Graph Basics - Episode 3](https://youtu.be/IAR2izQxsxM?si=Y8Zoc8b4Ff0ZSKYb) not strickly visionOS but covers the basics.
 - [VisionOS Fundamentals You Need To Know](https://youtu.be/1k_Fe_s6bx0?si=zHuzWWe_8AXr_PWj)
 - [I built an Apple Vision Pro app... visionOS tutorial](https://youtu.be/_xfZIr5sDLw?si=Engl5VUp-_QhnRp5)
 - [How To Get STARTED With Unity visionOS PolySpatial Tools! - Vision Pro Development](https://youtu.be/EtPaYKvzs6M?si=kgSyoAz8-85WgwSL)
