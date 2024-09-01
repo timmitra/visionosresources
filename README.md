@@ -46,3 +46,10 @@ My collection of interesting visionOS code and resources
 - OMT Conf 2024: 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS
 - [Let's visionOS 2024 - 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS, Beijing](https://youtu.be/Zhf5MJVKKqM)
 
+### How to Contribute
+These simple instructions should be everything you need to get a new site included in the directory:
+
+[https://github.com/timmitra/visionosresources](Fork this repository) on GitHub.
+Submit a pull request.
+Once the pull request is accepted and merged, this site will be re-generated and your link will magically appear! Thank you for wanting to contribute.
+
