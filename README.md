@@ -9,7 +9,6 @@ My collection of interesting visionOS code and resources
 - [Open Window with a value](https://stepinto.vision/example-code/open-window-with-a-value/)
 - [Using Default Window Placement in visionOS](https://stepinto.vision/example-code/using-default-window-placement-in-visionos/)
 - [Using Scene Phase to manage window state](https://stepinto.vision/example-code/using-scene-phase-to-manage-window-state/)
-- [Time For Cube](https://github.com/timmitra/TimeForCube) WWDC code updated to work on current visionOS
 
 
 ##### Shader Graph
@@ -29,6 +28,11 @@ My collection of interesting visionOS code and resources
 #### Books
 - [Making Accessible visionOS Applications](https://a.co/d/63oiOAQ) - Robin Kanatzar
 - 
+
+#### My code samples
+- [Time For Cube](https://github.com/timmitra/TimeForCube) WWDC code updated to work on current visionOS.
+- [VisionQuiz](https://github.com/timmitra/VisionQuiz) working sample for Kodeco course.
+
 
 #### My Courses
 
