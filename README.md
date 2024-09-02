@@ -35,7 +35,7 @@ My collection of interesting visionOS code and resources
 - [Develop for Apple Vision Pro with Unity’s PolySpatial | Play to Device, XR Simulator & visionOS](https://youtu.be/LYRJIewPiLU?si=VLsoK1b0dbf5X3dD)
 
 #### Books
-- [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X)
+- [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
 - [Making Accessible visionOS Applications](https://a.co/d/63oiOAQ) - Robin Kanatzar
 
 #### Who to Follow
