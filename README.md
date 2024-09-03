@@ -1,5 +1,5 @@
 # Awesome visionOS Resources
-My collection of awesome visionOS code and resources
+My collection of awesome[^1] visionOS code and resources
 
 #### Sample Code
 
@@ -68,6 +68,6 @@ These simple instructions should be everything you need to get a new site includ
 Submit a pull request.
 Once the pull request is accepted and merged, this site will be re-generated and your link will magically appear! Thank you for wanting to contribute.
 
-A note on the use of "awesome", which is an overused modifier IMO. _Is it awesome like a hotdog or a moon landing?_ - Eddie Izzard.
+[^1]: A note on the use of "awesome", which is an overused modifier IMO. _Is it awesome like a hotdog or a moon landing?_ - Eddie Izzard.
 
 
