@@ -46,7 +46,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Vision Pro Developers](https://www.meetup.com/vision-pro-developers/) (Zoom) - Mountain View CA, USA.
 
 #### App Lists
-- [Vision Directory](vision.directory)
+- [Vision Directory](https://vision.directory)
 - [Apps For Vision Pro](https://appsforapplevision.com)
 
 
