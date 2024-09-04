@@ -34,6 +34,12 @@ My collection of awesome[^1] visionOS code and resources
 - [How To Get STARTED With Unity visionOS PolySpatial Tools! - Vision Pro Development](https://youtu.be/EtPaYKvzs6M?si=kgSyoAz8-85WgwSL)
 - [Develop for Apple Vision Pro with Unity’s PolySpatial | Play to Device, XR Simulator & visionOS](https://youtu.be/LYRJIewPiLU?si=VLsoK1b0dbf5X3dD)
 
+#### App Videos (inspiration)
+- [The Worlds First Stockpile Measurement with the Apple Vision Pro!](https://youtu.be/2j5VFL1Rcqg?si=dBeL2lvt7Tk_kDO9)
+- [ROCK Jobsite App on Apple Vision Pro](https://youtu.be/4DSugdDbNls?si=pitaJ_l81bkvHtX0)
+- [NVidia Omniverse on Vision Pro](https://youtu.be/diaMgE0SIc8?si=Nd4ijnQkuyBgkWPd&t=86)
+
+
 #### Books
 - [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
 - [Making Accessible visionOS Applications](https://a.co/d/63oiOAQ) - Robin Kanatzar
