@@ -38,6 +38,7 @@ My collection of awesome[^1] visionOS code and resources
 - [The Worlds First Stockpile Measurement with the Apple Vision Pro!](https://youtu.be/2j5VFL1Rcqg?si=dBeL2lvt7Tk_kDO9)
 - [ROCK Jobsite App on Apple Vision Pro](https://youtu.be/4DSugdDbNls?si=pitaJ_l81bkvHtX0)
 - [NVidia Omniverse on Vision Pro](https://youtu.be/diaMgE0SIc8?si=Nd4ijnQkuyBgkWPd&t=86)
+- [Vision Pro Shoulder Arthroscopy](https://youtu.be/YjxrKtX-Z1Q?si=npqXijqCAJhc6e91)
 
 
 #### Books
