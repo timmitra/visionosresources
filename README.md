@@ -42,6 +42,8 @@ My collection of awesome[^1] visionOS code and resources
 - [Matt Pfeiffer on X](https://x.com/MattPfeiffer/status/1820108984273023028)
 - [Sam Morais on X](https://x.com/SamuelMorais/status/1816182952893812826)
 
+#### Meetups
+- [Vision Pro Developers](https://www.meetup.com/vision-pro-developers/) (Zoom) - Mountain View CA, USA.
 
 
 #### My code samples
