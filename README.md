@@ -45,6 +45,10 @@ My collection of awesome[^1] visionOS code and resources
 #### Meetups
 - [Vision Pro Developers](https://www.meetup.com/vision-pro-developers/) (Zoom) - Mountain View CA, USA.
 
+#### App Lists
+- [Vision Directory](vision.directory)
+- [Apps For Vision Pro](https://appsforapplevision.com)
+
 
 #### My code samples
 - [Time For Cube](https://github.com/timmitra/TimeForCube) WWDC code updated to work on current visionOS.
