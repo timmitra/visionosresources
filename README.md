@@ -9,7 +9,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Open Window with a value](https://stepinto.vision/example-code/open-window-with-a-value/)
 - [Using Default Window Placement in visionOS](https://stepinto.vision/example-code/using-default-window-placement-in-visionos/)
 - [Using Scene Phase to manage window state](https://stepinto.vision/example-code/using-scene-phase-to-manage-window-state/)
-
+- [HLS 360 Video Material for visionOS](https://github.com/ynagatomo/HLS360VideoMaterial)
 
 ##### Shader Graph
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
