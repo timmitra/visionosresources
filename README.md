@@ -51,6 +51,17 @@ My collection of awesome[^1] visionOS code and resources
 #### Who to Follow
 - [Matt Pfeiffer on X](https://x.com/MattPfeiffer/status/1820108984273023028)
 - [Sam Morais on X](https://x.com/SamuelMorais/status/1816182952893812826)
+- [Puffinwalker on X](https://x.com/Clarepuffinw)
+- [Tom Kirkorian on X](https://x.com/tom_krikorian)
+- [Devin on X](https://x.com/JustMeDevin)
+- [Santoshi on X](https://x.com/shmdevelop)
+- [elkraneo on X](https://x.com/elkraneo)
+- [Oliver Weidlich on X](https://x.com/oliverw)
+- [Hidde on X](https://x.com/hiddevdploeg)
+- [Christian Selig on X](https://x.com/ChristianSelig)
+- [Jordi Briun on X](https://x.com/jordibruin)
+- [Nicole Lazarro on X](https://x.com/NicoleLazzaro)
+- [Yashuito Nagamoto on X](https://x.com/AtarayoSD)
 
 #### Meetups
 - [Vision Pro Developers](https://www.meetup.com/vision-pro-developers/) (Zoom) - Mountain View CA, USA.
