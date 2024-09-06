@@ -70,6 +70,9 @@ My collection of awesome[^1] visionOS code and resources
 - [Vision Directory](https://vision.directory)
 - [Apps For Vision Pro](https://appsforapplevision.com)
 
+#### More Lists
+- [awesome-visionOS](https://github.com/tomkrikorian/awesome-visionOS)
+
 
 #### My code samples
 - [Time For Cube](https://github.com/timmitra/TimeForCube) WWDC code updated to work on current visionOS.
