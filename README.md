@@ -41,6 +41,8 @@ My collection of awesome[^1] visionOS code and resources
 - [NVidia Omniverse on Vision Pro](https://youtu.be/diaMgE0SIc8?si=Nd4ijnQkuyBgkWPd&t=86)
 - [Vision Pro Shoulder Arthroscopy](https://youtu.be/YjxrKtX-Z1Q?si=npqXijqCAJhc6e91)
 
+#### Conferences
+- [Let's visionOS] - Beijing March 01-02, 2025
 
 #### Books
 - [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
