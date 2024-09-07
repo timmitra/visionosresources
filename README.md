@@ -13,8 +13,9 @@ My collection of awesome[^1] visionOS code and resources
 - [SpatialEffectsVideoPlayer](https://github.com/satoshi0212/SpatialEffectsVideoPlayer)
 - [Using SwiftUI to Add 2D and 3D Content in Apple Vision Pro App | (Part 1/3) - Windows and Volumes](https://youtu.be/Vc-1j8iD21w?si=cksasoGRd-SDVvzQ)
   
-##### Shader Graph
+##### ShaderGraph
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
+- [ShaderGraph on Apple Docs](https://developer.apple.com/documentation/ShaderGraph)
 
 ##### SkyBox
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
