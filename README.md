@@ -1,8 +1,7 @@
 # Awesome visionOS Resources
 My collection of awesome[^1] visionOS code and resources
 
-- [Awesome visionOS Resources](#awesome-visionos-resources)
-      - [Sample Code](#sample-code)
+- [Sample Code](#sample-code)
         * [General](#general)
         * [ShaderGraph](#shadergraph)
         * [SkyBox](#skybox)
