@@ -1,6 +1,30 @@
 # Awesome visionOS Resources
 My collection of awesome[^1] visionOS code and resources
 
+- [Awesome visionOS Resources](#awesome-visionos-resources)
+      - [Sample Code](#sample-code)
+        * [General](#general)
+        * [ShaderGraph](#shadergraph)
+        * [SkyBox](#skybox)
+      - [Design](#design)
+      - [Accessibility](#accessibility)
+      - [Hackathons](#hackathons)
+      - [Videos](#videos)
+      - [App Videos (inspiration)](#app-videos--inspiration-)
+      - [Conferences](#conferences)
+      - [Books](#books)
+      - [Who to Follow](#who-to-follow)
+      - [Meetups](#meetups)
+      - [App Lists](#app-lists)
+      - [More Lists](#more-lists)
+      - [My code samples](#my-code-samples)
+      - [My Courses](#my-courses)
+      - [My Conference Videos](#my-conference-videos)
+    + [How to Contribute](#how-to-contribute)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 #### Sample Code
 
 ##### General
