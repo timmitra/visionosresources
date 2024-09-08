@@ -117,6 +117,9 @@ My collection of awesome[^1] visionOS code and resources
 - OMT Conf 2024: 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS
 - [Let's visionOS 2024 - 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS, Beijing](https://youtu.be/Zhf5MJVKKqM)
 
+#### Miscellaneous 
+- [Vision Pro Online Usage Survey Results](https://tom.vision/vision-pro-online-usage-survey-results)
+
 ### How to Contribute
 These simple instructions should be everything you need to get a new site included in the directory:
 
