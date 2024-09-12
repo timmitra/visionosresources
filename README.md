@@ -109,6 +109,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Courses
 
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
+- [Apple visionOS Pathway](https://developer.apple.com/visionos/pathway/)
 - [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
 - [30 days of visionOS](https://github.com/satoshi0212/visionOS_30Days)
 
