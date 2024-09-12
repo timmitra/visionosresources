@@ -17,8 +17,9 @@ My collection of awesome[^1] visionOS code and resources
       - [App Lists](#app-lists)
       - [More Lists](#more-lists)
       - [My code samples](#my-code-samples)
-      - [My Courses](#my-courses)
+      - [Courses](#courses)
       - [My Conference Videos](#my-conference-videos)
+      - [Miscellaneous](#miscellaneous)
     + [How to Contribute](#how-to-contribute)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
