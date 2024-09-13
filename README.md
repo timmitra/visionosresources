@@ -47,7 +47,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Apple
 - [Creating 2D Shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
 - [Creating 3D Entities in visionOS with RealityKit](https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit)
-- [Creating SwiftUI in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos)
+- [Creating SwiftUI Windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos)
 - [Creating 3D Models as Moveable Windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos)
 - [Creating Immersive Spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui)
 
