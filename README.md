@@ -45,11 +45,12 @@ My collection of awesome[^1] visionOS code and resources
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
 
 #### Apple
-- [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 2𝐃 𝐒𝐡𝐚𝐩𝐞𝐬 𝐢𝐧 𝐯𝐢𝐬𝐢𝐨𝐧𝐎𝐒 𝐰𝐢𝐭𝐡 𝐒𝐰𝐢𝐟𝐭𝐔𝐈](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
-- [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 3𝐃 𝐄𝐧𝐭𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐯𝐢𝐬𝐢𝐨𝐧𝐎𝐒 𝐰𝐢𝐭𝐡 𝐑𝐞𝐚𝐥𝐢𝐭𝐲𝐊𝐢𝐭](https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit)
-- [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐒𝐰𝐢𝐟𝐭𝐔𝐈 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐢𝐧 𝐯𝐢𝐬𝐢𝐨𝐧𝐎𝐒](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos)
-- [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 3𝐃 𝐌𝐨𝐝𝐞𝐥𝐬 𝐚𝐬 𝐌𝐨𝐯𝐚𝐛𝐥𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos)
-- [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐈𝐦𝐦𝐞𝐫𝐬𝐢𝐯𝐞 𝐒𝐩𝐚𝐜𝐞𝐬 𝐢𝐧 𝐯𝐢𝐬𝐢𝐨𝐧𝐎𝐒](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui)
+-[Creating 2D Shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
+- [Creating 3D Entities in visionOS with RealityKit](https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit)
+- [Creating SwiftUI in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos)
+- [Creating 3D Models as Moveable Windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos)
+- [Creating Immersive Spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui)
+
 
 
 #### Design
