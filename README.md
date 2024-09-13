@@ -76,9 +76,10 @@ My collection of awesome[^1] visionOS code and resources
 - [NVidia Omniverse on Vision Pro](https://youtu.be/diaMgE0SIc8?si=Nd4ijnQkuyBgkWPd&t=86)
 - [Vision Pro Shoulder Arthroscopy](https://youtu.be/YjxrKtX-Z1Q?si=npqXijqCAJhc6e91)
 
-#### Conferences
+#### Conferences/Events
 - [Let's visionOS] - Beijing March 01-02, 2025
 - Aussie visionOS Day - Melbourne on the 25th October (9am - 5pm)
+- [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
 
 #### Books
 - [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
