@@ -44,13 +44,15 @@ My collection of awesome[^1] visionOS code and resources
 ##### SkyBox
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
 
-#### Apple
+##### Apple
 - [Creating 2D Shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
 - [Creating 3D Entities in visionOS with RealityKit](https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit)
 - [Creating SwiftUI Windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos)
 - [Creating 3D Models as Moveable Windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos)
 - [Creating Immersive Spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui)
 
+#### Particles
+- [Unlocking the Power of visionOS Particles: A Detailed Tutorial](https://medium.com/@xreality.zone/unlocking-the-power-of-visionos-particles-a-detailed-tutorial-211d323f8cf8)
 
 
 #### Design
