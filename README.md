@@ -111,7 +111,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Apps For Vision Pro](https://appsforapplevision.com)
 
 #### More Lists
-- [awesome-visionOS](https://github.com/tomkrikorian/awesome-visionOS)
+- [awesome-visionOS](https://github.com/tomkrikorian/awesome-visionOS) lists every WWDC video
 
 
 #### My code samples
