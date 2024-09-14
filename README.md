@@ -47,6 +47,7 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Designing for visionOS - Human Interface Guidlines](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos/)
 - [Looking Ahead: Oliver Weidlich, Episode 381](https://youtu.be/JUYQgnVgJd4?si=u0IO03G1J1649ky9_)
+- [Apple Design Resources on Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
 
 #### Accessibility
 
@@ -81,6 +82,12 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
 - [Making Accessible visionOS Applications](https://a.co/d/63oiOAQ) - Robin Kanatzar
+
+#### Hardware & Accessories
+
+- [3D Glass for iPhone](https://spatial-glass.com)
+- [Spigen Apple Vision Pro Head Strap](https://www.spigen.com/products/apple-vision-pro-head-strap)
+- [AnnaPro Head Strap](https://amzn.to/4epsInu)
 
 #### Who to Follow
 
