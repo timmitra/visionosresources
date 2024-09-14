@@ -102,6 +102,9 @@ My collection of awesome[^1] visionOS code and resources
 - [Nicole Lazarro on X](https://x.com/NicoleLazzaro)
 - [Yashuito Nagamoto on X](https://x.com/AtarayoSD)
 - [MrDeerWhale on X](https://x.com/mrdeerwhale) [on Mastodon](https://mastodon.social/@mrdeerwhale)
+- [Greg Wieber on X](https://x.com/dreamwieber)
+- [Tim Isenman on X](https://x.com/TimIsenman)
+- [Tim Mitra on mastedon](https://mastodon.social/@timmitra)
 
 #### Meetups
 - [Vision Pro Developers](https://www.meetup.com/vision-pro-developers/) (Zoom) - Mountain View CA, USA.
