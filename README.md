@@ -109,6 +109,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Tim Isenman on X](https://x.com/TimIsenman)
 - [Tim Mitra on mastedon](https://mastodon.social/@timmitra)
 - [Sergey Gonchar](https://x.com/the_gonchar)
+- [Tassilo von Gerlach on X](https://x.com/tvon_g)
 
 #### Meetups
 
