@@ -78,6 +78,14 @@ My collection of awesome[^1] visionOS code and resources
 - Aussie visionOS Day - Melbourne on the 25th October (9am - 5pm)
 - [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
 
+#### Funding
+
+- [The Venture Reality Fund](https://thevrfund.com)
+
+#### SwiftUI/UIKit
+
+- [SwiftUI Field Guide](https://swiftuifieldguide.com)
+
 #### Books
 
 - [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
