@@ -72,7 +72,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Socials
 
 - [r/visionOS](https://www.reddit.com/r/VisionPro/)
-- [Apple Vision Pro on LinkedIn](https://www.linkedin.com/groups/13507791/)
+- [visionOS Developer Group on LinkedIn](https://www.linkedin.com/groups/12922559/)
 
 #### App Videos (inspiration)
 
