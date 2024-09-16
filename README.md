@@ -34,6 +34,7 @@ My collection of awesome[^1] visionOS code and resources
 ##### SkyBox
 
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
+- [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2024/10186)
 
 ##### Apple
 
