@@ -65,6 +65,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Hackathons
 
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
+- [The Best of Vision Hack 2024 (so far)](https://www.it-guy.com/wp-new/2024/09/the-best-of-vision-hack-2024/)
 
 #### Videos
 
