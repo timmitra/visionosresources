@@ -26,6 +26,10 @@ My collection of awesome[^1] visionOS code and resources
 
 - [How to animate a model's rotation in RealityKit?](https://stackoverflow.com/questions/59335075/how-to-animate-a-models-rotation-in-realitykit)
 
+##### ARKit
+
+- [TimeForCube - updated](https://github.com/timmitra/TimeForCube/)
+
 ##### ShaderGraph
 
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
