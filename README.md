@@ -41,6 +41,10 @@ My collection of awesome[^1] visionOS code and resources
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
 - [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2024/10186)
 
+##### WebXR
+
+-[Build immersive web experiences with WebXR](https://developer.apple.com/videos/play/wwdc2024/10066/)
+
 ##### Apple
 
 - [Creating 2D Shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
