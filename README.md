@@ -43,7 +43,7 @@ My collection of awesome[^1] visionOS code and resources
 
 ##### WebXR
 
--[Build immersive web experiences with WebXR](https://developer.apple.com/videos/play/wwdc2024/10066/)
+- [Build immersive web experiences with WebXR](https://developer.apple.com/videos/play/wwdc2024/10066/)
 
 ##### Apple
 
