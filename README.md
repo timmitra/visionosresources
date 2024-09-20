@@ -92,7 +92,7 @@ My collection of awesome[^1] visionOS code and resources
 #### USDz
 
 - [Object Capture for iOS](https://docs-assets.developer.apple.com/published/0710477dca91/ScanningObjectsUsingObjectCapture.zip) roll your own usdz
-- [Sketchfab]{https://sketchfab.com/) will become [FAB](https://fab.com) in October
+- [Sketchfab](https://sketchfab.com/) will become [FAB](https://fab.com) in October
 - [Apple's QuickLook VR Gallery](https://developer.apple.com/augmented-reality/quick-look/)
 
 #### Accessibility
