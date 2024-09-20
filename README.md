@@ -127,7 +127,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Conferences/Events
 
 - [Let's visionOS] - Beijing March 01-02, 2025
-- Aussie visionOS Day - Melbourne on the 25th October (9am - 5pm)
+- [Aussie visionOS Day - Melbourne](https://events.humantix.com/aussie-visionos-melb) on the 25th October (9am - 5pm)
 - [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
 
 #### Funding
