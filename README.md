@@ -63,6 +63,10 @@ My collection of awesome[^1] visionOS code and resources
 - [Looking Ahead: Oliver Weidlich, Episode 381](https://youtu.be/JUYQgnVgJd4?si=u0IO03G1J1649ky9_)
 - [Apple Design Resources on Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
 
+#### USDz
+
+- [Object Capture for iOS](https://docs-assets.developer.apple.com/published/0710477dca91/ScanningObjectsUsingObjectCapture.zip) roll your own usdz
+
 #### Accessibility
 
 - [Accessibility - Vision](https://www.apple.com/accessibility/vision/)
