@@ -3,37 +3,17 @@
 My collection of awesome[^1] visionOS code and resources
 
 - [Sample Code](#sample-code)
-        * [General](#general)
-        * [RealityKit](#realitykit)
-        * [ARKit](#arkit)
-        * [ShaderGraph](#shadergraph)
-        * [SkyBox](#skybox)
-        * [WebXR](#webxr)
-        * [Apple](#apple)
-      - [Particles](#particles)
-      - [Design](#design)
-      - [USDz](#usdz)
-      - [Accessibility](#accessibility)
-      - [Hackathons](#hackathons)
-      - [Videos](#videos)
-      - [Socials](#socials)
-      - [App Videos (inspiration)](#app-videos--inspiration-)
-      - [Conferences/Events](#conferences-events)
-      - [Funding](#funding)
-      - [SwiftUI/UIKit](#swiftui-uikit)
-      - [Books](#books)
-      - [Hardware & Accessories](#hardware---accessories)
-      - [Who to Follow](#who-to-follow)
-      - [Meetups](#meetups)
-      - [App Lists](#app-lists)
-      - [More Lists](#more-lists)
-      - [My code samples](#my-code-samples)
-      - [Courses](#courses)
-      - [My Conference Videos](#my-conference-videos)
-      - [Miscellaneous](#miscellaneous)
-    + [How to Contribute](#how-to-contribute)
+  _ [General](#general)
+  _ [RealityKit](#realitykit)
+  _ [ARKit](#arkit)
+  _ [ShaderGraph](#shadergraph)
+  _ [SkyBox](#skybox)
+  _ [WebXR](#webxr) \* [Apple](#apple) - [Particles](#particles) - [Design](#design) - [USDz](#usdz) - [Accessibility](#accessibility) - [Hackathons](#hackathons) - [Videos](#videos) - [Socials](#socials) - [App Videos (inspiration)](#app-videos--inspiration-) - [Conferences/Events](#conferences-events) - [Funding](#funding) - [SwiftUI/UIKit](#swiftui-uikit) - [Books](#books) - [Hardware & Accessories](#hardware---accessories) - [Who to Follow](#who-to-follow) - [Meetups](#meetups) - [App Lists](#app-lists) - [More Lists](#more-lists) - [My code samples](#my-code-samples) - [Courses](#courses) - [My Conference Videos](#my-conference-videos) - [Miscellaneous](#miscellaneous)
+  - [How to Contribute](#how-to-contribute)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+### Subscribe: [Companion Weekly Newsletter](https://it-guy-technologies.ck.page)
 
 #### Sample Code
 
