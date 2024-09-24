@@ -110,6 +110,10 @@ My collection of awesome[^1] visionOS code and resources
 - [Aussie visionOS Day - Melbourne](https://events.humanitix.com/aussie-visionos-melb) on the 25th October (9am - 5pm)
 - [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
 
+#### Opportunities
+
+- [Apple: Calling all vision casters... ](https://www.linkedin.com/posts/benza_calling-all-vision-casters-design-leaders-activity-7232616109688905728-66Qx)
+
 #### Funding
 
 - [The Venture Reality Fund](https://thevrfund.com)
