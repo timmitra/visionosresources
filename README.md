@@ -34,6 +34,7 @@ My collection of awesome[^1] visionOS code and resources
 
 - [How to animate a model's rotation in RealityKit?](https://stackoverflow.com/questions/59335075/how-to-animate-a-models-rotation-in-realitykit)
 - [Detecting Collisions with RealityKit in visionOS](https://lickability.com/blog/detecting-collisions-with-realitykit-in-visionos/)
+- [Tap Entity to Show Attachment](https://github.com/timmitra/TapAttachment)
 
 ##### ARKit
 
