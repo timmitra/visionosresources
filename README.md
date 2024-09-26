@@ -54,6 +54,10 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Build immersive web experiences with WebXR](https://developer.apple.com/videos/play/wwdc2024/10066/)
 
+##### Unity
+
+- [How to build your first Apple Vision Pro app featuring Ready Player Me Avatars and Unity PolySpatial package](https://readyplayer.me/blog/how-to-build-your-first-apple-vision-pro-app-featuring-ready-player-me-avatars-and-unity-polyspatial-package)
+
 ##### Apple
 
 - [Creating 2D Shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
