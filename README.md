@@ -28,6 +28,7 @@ My collection of awesome[^1] visionOS code and resources
 - [SpatialEffectsVideoPlayer](https://github.com/satoshi0212/SpatialEffectsVideoPlayer)
 - [Using SwiftUI to Add 2D and 3D Content in Apple Vision Pro App | (Part 1/3) - Windows and Volumes](https://youtu.be/Vc-1j8iD21w?si=cksasoGRd-SDVvzQ)
 - [If you’ve created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/en/blog/volume-window-zoom/)
+- [Shattered Glass: Customizing Windows in visionOS](https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics/)
 
 ##### RealityKit
 
