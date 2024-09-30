@@ -77,6 +77,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Designing for visionOS - Human Interface Guidlines](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos/)
 - [Looking Ahead: Oliver Weidlich, Episode 381](https://youtu.be/JUYQgnVgJd4?si=u0IO03G1J1649ky9_)
 - [Apple Design Resources on Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
+- [visionOS App Icon Web Previewer](https://gnikoloff.github.io/visionos-web-app-icon-maker/) This web-based tool allows you to arrange, preview, and export app icons for visionOS—no need to install Xcode or Parallax Previewer.
 
 #### USDz
 
@@ -164,6 +165,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Sergey Gonchar](https://x.com/the_gonchar)
 - [Tassilo von Gerlach on X](https://x.com/tvon_g)
 - [Mike Benza on LinkedIn](https://www.linkedin.com/in/benza/)
+- [Georgi Nikolov on X](https://x.com/georgiNikoloff)
 
 #### Meetups
 
