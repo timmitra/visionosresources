@@ -173,9 +173,11 @@ My collection of awesome[^1] visionOS code and resources
 - [Tim Mitra on mastedon](https://mastodon.social/@timmitra)
 - [Sergey Gonchar](https://x.com/the_gonchar)
 - [Tassilo von Gerlach on X](https://x.com/tvon_g)
-- [Mike Benza on LinkedIn](https://www.linkedin.com/in/benza/)
+- [Mike Benza on LinkedIn](https://www.linkedin.com/in/benza/) Apple Evangelist
 - [Georgi Nikolov on X](https://x.com/georgiNikoloff)
 - [Fabio Dela Antonio on X](https://x.com/fabio914)
+- [Masashi Toyota on X](https://x.com/toyochang) Apple Evangelist
+- [Serenity Caldwell on X](https://x.com/settern) Apple Evangelist
 
 #### Meetups
 
