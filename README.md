@@ -33,7 +33,7 @@ My collection of awesome[^1] visionOS code and resources
 ##### Reality Composer Pro
 
 - [Designing RealityKit content with Reality Composer Pro](https://developer.apple.com/documentation/visionOS/designing-realitykit-content-with-reality-composer-pro)
-- [visionOS: Beyond the Basics](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics) - covers Reality Composer Pro and Reality Kit. May require a subscription. YMMV
+- [visionOS: Beyond the Basics](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics) - covers Reality Composer Pro and RealityKit. May require a subscription. YMMV
 
 ##### RealityKit
 
