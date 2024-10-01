@@ -30,6 +30,11 @@ My collection of awesome[^1] visionOS code and resources
 - [If you’ve created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/en/blog/volume-window-zoom/)
 - [Shattered Glass: Customizing Windows in visionOS](https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics/)
 
+##### Reality Composer Pro
+
+- [Designing RealityKit content with Reality Composer Pro](https://developer.apple.com/documentation/visionOS/designing-realitykit-content-with-reality-composer-pro)
+- [visionOS: Beyond the Basics](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics) - covers Reality Composer Pro and Reality Kit. May require a subscription. YMMV
+
 ##### RealityKit
 
 - [How to animate a model's rotation in RealityKit?](https://stackoverflow.com/questions/59335075/how-to-animate-a-models-rotation-in-realitykit)
