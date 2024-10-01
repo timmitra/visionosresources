@@ -47,7 +47,7 @@ My collection of awesome[^1] visionOS code and resources
 
 ##### ARKit
 
-- [TimeForCube - updated](https://github.com/timmitra/TimeForCube/) Based on WWDC23 video, code update to work.
+- [TimeForCube - updated](https://github.com/timmitra/TimeForCube/) Based on WWDC23 video, code updated to work.
 - [Incorporating real-world surroundings in an immersive experience](https://developer.apple.com/documentation/visionos/incorporating-real-world-surroundings-in-an-immersive-experience) Apple's updated TimeForCube code.
 - [Building local experiences with room tracking](https://developer.apple.com/documentation/visionOS/building_local_experiences_with_room_tracking)
 
@@ -175,7 +175,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Tassilo von Gerlach on X](https://x.com/tvon_g)
 - [Mike Benza on LinkedIn](https://www.linkedin.com/in/benza/)
 - [Georgi Nikolov on X](https://x.com/georgiNikoloff)
-- [Fabio Dela Antonio](https://x.com/fabio914)
+- [Fabio Dela Antonio on X](https://x.com/fabio914)
 
 #### Meetups
 
