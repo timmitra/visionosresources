@@ -29,6 +29,8 @@ My collection of awesome[^1] visionOS code and resources
 - [Using SwiftUI to Add 2D and 3D Content in Apple Vision Pro App | (Part 1/3) - Windows and Volumes](https://youtu.be/Vc-1j8iD21w?si=cksasoGRd-SDVvzQ)
 - [If you’ve created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/en/blog/volume-window-zoom/)
 - [Shattered Glass: Customizing Windows in visionOS](https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics/)
+- [Reality Mixer Pro
+  Mixed Reality Capture app for the Vision Pro](https://github.com/fabio914/RealityMixerVisionPro)
 
 ##### Reality Composer Pro
 
@@ -173,6 +175,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Tassilo von Gerlach on X](https://x.com/tvon_g)
 - [Mike Benza on LinkedIn](https://www.linkedin.com/in/benza/)
 - [Georgi Nikolov on X](https://x.com/georgiNikoloff)
+- [Fabio Dela Antonio](https://x.com/fabio914)
 
 #### Meetups
 
