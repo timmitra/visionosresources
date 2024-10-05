@@ -31,6 +31,8 @@ My collection of awesome[^1] visionOS code and resources
 - [Shattered Glass: Customizing Windows in visionOS](https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics/)
 - [Reality Mixer Pro
   Mixed Reality Capture app for the Vision Pro](https://github.com/fabio914/RealityMixerVisionPro)
+- [Vision Hack: All Resources](https://airtable.com/appHtoz2c0UdEoVXr/shrmCKznhcXs2qF1M)
+- [Another awesome-visionOS list](https://github.com/tomkrikorian/awesome-visionOS)
 
 ##### Reality Composer Pro
 
