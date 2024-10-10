@@ -181,6 +181,9 @@ My collection of awesome[^1] visionOS code and resources
 - [Fabio Dela Antonio on X](https://x.com/fabio914)
 - [Masashi Toyota on X](https://x.com/toyochang) Apple Evangelist
 - [Serenity Caldwell on X](https://x.com/settern) Apple Evangelist
+- [Cosmo Scharf on LinkedIn](https://www.linkedin.com/in/cosmoscharf)
+- [Brian Boyd on LinkedIn](https://www.linkedin.com/in/brian-boyd-jr/)
+- [Matt Hoerl on LinkedIn](https://www.linkedin.com/in/matthew-hoerl/)
 
 #### Meetups
 
