@@ -78,6 +78,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Creating SwiftUI Windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos)
 - [Creating 3D Models as Moveable Windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos)
 - [Creating Immersive Spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui)
+- [Generating procedural textures](https://developer.apple.com/documentation/visionos/generating-procedural-textures-in-visionos) Pro Tip: Disable Metal API Validation to run on Vision Pro simulator
 
 #### Particles
 
