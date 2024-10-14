@@ -33,6 +33,7 @@ My collection of awesome[^1] visionOS code and resources
   Mixed Reality Capture app for the Vision Pro](https://github.com/fabio914/RealityMixerVisionPro)
 - [Vision Hack: All Resources](https://airtable.com/appHtoz2c0UdEoVXr/shrmCKznhcXs2qF1M)
 - [Another awesome-visionOS list](https://github.com/tomkrikorian/awesome-visionOS)
+- [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
 
 ##### Reality Composer Pro
 
