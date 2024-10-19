@@ -34,6 +34,8 @@ My collection of awesome[^1] visionOS code and resources
 - [Vision Hack: All Resources](https://airtable.com/appHtoz2c0UdEoVXr/shrmCKznhcXs2qF1M)
 - [Another awesome-visionOS list](https://github.com/tomkrikorian/awesome-visionOS)
 - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
+- [Open a Volume with a value](https://stepinto.vision/example-code/open-a-volume-with-a-value/)
+- [Tap Gesture Basics](https://stepinto.vision/example-code/tap-gesture-basics/)
 
 ##### Reality Composer Pro
 
