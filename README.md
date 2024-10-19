@@ -224,6 +224,10 @@ My collection of awesome[^1] visionOS code and resources
 - OMT Conf 2024: 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS
 - [Let's visionOS 2024 - 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS, Beijing](https://youtu.be/Zhf5MJVKKqM)
 
+#### In The Media
+
+- [Why Surgeons Are Wearing The Apple Vision Pro](https://time.com/7093536/surgeons-apple-vision-pro/)
+
 #### Miscellaneous
 
 - [Vision Pro Online Usage Survey Results](https://tom.vision/vision-pro-online-usage-survey-results)
