@@ -126,6 +126,9 @@ My collection of awesome[^1] visionOS code and resources
 
 - [r/visionOS](https://www.reddit.com/r/VisionPro/)
 - [visionOS Developer Group on LinkedIn](https://www.linkedin.com/groups/12922559/)
+- [Vision Pro Discord - (Apple?)](http://discord.com/invite/uPu4cDJGGV)
+- [visionOS Starter Pack - BlueSky](https://go.bsky.app/9kfduUc) - Tim Mitra
+- [visionOS Starter Pack - BlueSky](https://bsky.app/starter-pack/tomkrikorian.com/3larqsk4myj2x) - Tom Krikorian
 
 #### App Videos (inspiration)
 
@@ -133,14 +136,17 @@ My collection of awesome[^1] visionOS code and resources
 - [ROCK Jobsite App on Apple Vision Pro](https://youtu.be/4DSugdDbNls?si=pitaJ_l81bkvHtX0)
 - [NVidia Omniverse on Vision Pro](https://youtu.be/diaMgE0SIc8?si=Nd4ijnQkuyBgkWPd&t=86)
 - [Vision Pro Shoulder Arthroscopy](https://youtu.be/YjxrKtX-Z1Q?si=npqXijqCAJhc6e91)
+- [MV Converter](https://mvconverter.app) - convert videos to MV-HEVC format
 
 #### Conferences/Events
 
+- [Aussie visionOS Day - Melbourne](https://events.humanitix.com/aussie-visionos-melb) on the 25th October (9am - 5pm)
 - Aussie visionOS Day - Sydney, [Contact](https://events.humanitix.com/copy-of-aussie-visionos-day-sydney/contact), Fri 6 Dec 2024, 9am - 5pm AEDT
 - [Let's visionOS 2025](https://letsvisionos.swiftgg.team/page/index.html) - Beijing March 01-02, 2025
-- [Aussie visionOS Day - Melbourne](https://events.humanitix.com/aussie-visionos-melb) on the 25th October (9am - 5pm)
 - [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
 - [SwiftUI tips & Immersive Video scoops: what I learned from a Vision Pro daytrip to Apple HQ](https://medium.com/@portemantho/swiftui-tips-immersive-video-scoops-what-i-learned-from-a-vision-pro-daytrip-to-apple-hq-633f5a0b6a5c)
+- [Experience Vision](https://www.experiencevision.io) - Paris Feb 6, 2025
+- [Apple Upcoming Events](https://developer.apple.com/events/view/upcoming-events) - various locations world wide
 
 #### Opportunities
 
@@ -163,14 +169,18 @@ My collection of awesome[^1] visionOS code and resources
 
 - [3D Glass for iPhone](https://spatial-glass.com)
 - [Spigen Apple Vision Pro Head Strap](https://www.spigen.com/products/apple-vision-pro-head-strap)
-- [AnnaPro Head Strap](https://amzn.to/4epsInu)
+- [AnnaPro A1 - pressure reducing head strap](https://annapro.com/products/comfort-head-strap-for-apple-vision-pro)
+- [Annapro A2 - pressure reducing head strap](https://annapro.com/products/comfort-head-strap-2-for-apple-vision-pro)
+- [Carina D1 Charging Dock for Apple Vision Pro](https://www.prismxr.com/products/prismxr-charging-dock-for-apple-vision-pro-65w-fast-charge-with-usb-c-charger-and-cable)
+- [Belkin Head Strap for Apple Vision Pro](https://www.apple.com/shop/product/HRYW2ZM/A/belkin-head-strap-for-apple-vision-pro)
 
 #### Who to Follow
 
+- See BlueSky visionOS Starter Packs in Socials
 - [Matt Pfeiffer on X](https://x.com/MattPfeiffer/status/1820108984273023028)
 - [Sam Morais on X](https://x.com/SamuelMorais/status/1816182952893812826)
 - [Puffinwalker on X](https://x.com/Clarepuffinw)
-- [Tom Kirkorian on X](https://x.com/tom_krikorian)
+- Tom Kirkorian [X.com](https://x.com/tom_krikorian), [BlueSky](https://bsky.app/profile/tomkrikorian.com)
 - [Devin on X](https://x.com/JustMeDevin)
 - [Santoshi on X](https://x.com/shmdevelop)
 - [elkraneo on X](https://x.com/elkraneo)
@@ -190,10 +200,13 @@ My collection of awesome[^1] visionOS code and resources
 - [Georgi Nikolov on X](https://x.com/georgiNikoloff)
 - [Fabio Dela Antonio on X](https://x.com/fabio914)
 - [Masashi Toyota on X](https://x.com/toyochang) Apple Evangelist
-- [Serenity Caldwell on X](https://x.com/settern) Apple Evangelist
+- [Serenity Caldwell on X](https://x.com/settern) Apple Evangelist [BlueSky](https://settern.bsky.social)
 - [Cosmo Scharf on LinkedIn](https://www.linkedin.com/in/cosmoscharf)
 - [Brian Boyd on LinkedIn](https://www.linkedin.com/in/brian-boyd-jr/)
 - [Matt Hoerl on LinkedIn](https://www.linkedin.com/in/matthew-hoerl/)
+- [Micheal Verdi on BlueSky](https://bsky.app/profile/michaelverdi.com)
+- Linda Dong, Apple Evangelist [BlueSky](https://lindadong.bsky.social)
+- Josh Tidsbury, Apple Evangelist [BlueSky](https://joshtidsbury.bsky.social)
 
 #### Meetups
 
