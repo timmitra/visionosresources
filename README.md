@@ -61,11 +61,13 @@ My collection of awesome[^1] visionOS code and resources
 
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
 - [ShaderGraph on Apple Docs](https://developer.apple.com/documentation/ShaderGraph)
+- [Happy Clouds on Apple Vision Pro: Demystifying Shader Graph Materials in Reality Composer Pro](https://youtu.be/BCEJDZndw_g)
 
 ##### SkyBox
 
 - [AI Generated Skybox](https://skybox.blockadelabs.com/)
 - [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2024/10186)
+- [VisionOs Development: A Clever Trick to make a Stars in Space Immersive Scene in Just 7 minutes](https://youtu.be/wzce09bsBZs)
 
 ##### WebXR
 
@@ -78,6 +80,8 @@ My collection of awesome[^1] visionOS code and resources
 #### Spatial Photography
 
 - [Create Spatial Photos for Apple Vision Pro with Blender](https://www.youtube.com/watch?v=nMQ1Gw7_Ybg)
+- [Spatial Photo Embeds in Safari](https://michaelverdi.com/blog/2024/12/06/testing-spatial-photo-and-video-embeds/)
+- [Displaying a stereoscopic image](https://developer.apple.com/documentation/visionos/creating-stereoscopic-image-in-visionos)
 
 ##### Apple
 
@@ -127,8 +131,8 @@ My collection of awesome[^1] visionOS code and resources
 - [r/visionOS](https://www.reddit.com/r/VisionPro/)
 - [visionOS Developer Group on LinkedIn](https://www.linkedin.com/groups/12922559/)
 - [Vision Pro Discord - (Apple?)](http://discord.com/invite/uPu4cDJGGV)
-- [visionOS Starter Pack - BlueSky](https://go.bsky.app/9kfduUc) - Tim Mitra
-- [visionOS Starter Pack - BlueSky](https://bsky.app/starter-pack/tomkrikorian.com/3larqsk4myj2x) - Tom Krikorian
+- [visionOS Starter Pack - BlueSky](https://go.bsky.app/9kfduUc) - by Tim Mitra
+- [visionOS Starter Pack - BlueSky](https://bsky.app/starter-pack/tomkrikorian.com/3larqsk4myj2x) - by Tom Krikorian
 
 #### App Videos (inspiration)
 
@@ -173,6 +177,9 @@ My collection of awesome[^1] visionOS code and resources
 - [Annapro A2 - pressure reducing head strap](https://annapro.com/products/comfort-head-strap-2-for-apple-vision-pro)
 - [Carina D1 Charging Dock for Apple Vision Pro](https://www.prismxr.com/products/prismxr-charging-dock-for-apple-vision-pro-65w-fast-charge-with-usb-c-charger-and-cable)
 - [Belkin Head Strap for Apple Vision Pro](https://www.apple.com/shop/product/HRYW2ZM/A/belkin-head-strap-for-apple-vision-pro)
+- [ResMed Kontor Head Strap for Apple Vision Pro​](https://youtu.be/I5fVZSTPdEE)
+- [Belkin Travel Bag for Apple Vision Pro](https://www.apple.com/ca/shop/product/HRYV2ZM/A/belkin-travel-bag-for-apple-vision-pro)
+- [PrismXR Charging Dock for Apple Vision Pro](https://www.prismxr.com/products/prismxr-charging-dock-for-apple-vision-pro-65w-fast-charge-with-usb-c-charger-and-cable)
 
 #### Who to Follow
 
@@ -224,6 +231,10 @@ My collection of awesome[^1] visionOS code and resources
 #### More Lists
 
 - [awesome-visionOS](https://github.com/tomkrikorian/awesome-visionOS) lists every WWDC video
+
+#### Other XR
+
+- [Learn More About Android XR](https://www.android.com/xr/)
 
 #### My code samples
 
