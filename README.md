@@ -69,6 +69,12 @@ My collection of awesome[^1] visionOS code and resources
 - [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2024/10186)
 - [VisionOs Development: A Clever Trick to make a Stars in Space Immersive Scene in Just 7 minutes](https://youtu.be/wzce09bsBZs)
 
+##### TableTopKit
+
+- [Meet TabletopKit for visionOS​](https://developer.apple.com/videos/play/wwdc2024/10091/) WWDC24
+- [Creating tabletop games​](https://developer.apple.com/documentation/tabletopkit/tabletopkitsample) sample code.
+- [TabletopKit​](https://developer.apple.com/documentation/tabletopkit) documentation
+
 ##### WebXR
 
 - [Build immersive web experiences with WebXR](https://developer.apple.com/videos/play/wwdc2024/10066/)
@@ -180,6 +186,7 @@ My collection of awesome[^1] visionOS code and resources
 - [ResMed Kontor Head Strap for Apple Vision Pro​](https://youtu.be/I5fVZSTPdEE)
 - [Belkin Travel Bag for Apple Vision Pro](https://www.apple.com/ca/shop/product/HRYV2ZM/A/belkin-travel-bag-for-apple-vision-pro)
 - [PrismXR Charging Dock for Apple Vision Pro](https://www.prismxr.com/products/prismxr-charging-dock-for-apple-vision-pro-65w-fast-charge-with-usb-c-charger-and-cable)
+- [Blackmagic URSA Cine Immersive​](https://www.blackmagicdesign.com/media/release/20241217-01)
 
 #### Who to Follow
 
