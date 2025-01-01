@@ -13,7 +13,7 @@ My collection of awesome[^1] visionOS code and resources
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-### Subscribe: [Companion Weekly Newsletter](https://it-guy-technologies.ck.page)
+### Subscribe: [Companion Weekly Newsletter](https://it-guy-technologies.kit.com)
 
 #### Sample Code
 
