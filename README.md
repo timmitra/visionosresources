@@ -39,6 +39,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Open a Volume with a value](https://stepinto.vision/example-code/open-a-volume-with-a-value/)
 - [Tap Gesture Basics](https://stepinto.vision/example-code/tap-gesture-basics/)
 - [Spacial Tap Gesture](https://stepinto.vision/example-code/spatial-tap-gesture/)
+- [Spatial Rendering for Apple Vision Pro](https://github.com/metal-by-example/spatial-rendering)
 
 ##### Reality Composer Pro
 
