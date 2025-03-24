@@ -122,6 +122,10 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Accessibility - Vision](https://www.apple.com/accessibility/vision/)
 
+#### Miscellaneous
+
+- [Adobe Substance 3D Assets](https://substance3d.adobe.com/assets/)
+
 #### Hackathons
 
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
