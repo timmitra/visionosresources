@@ -228,6 +228,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Micheal Verdi on BlueSky](https://bsky.app/profile/michaelverdi.com)
 - Linda Dong, Apple Evangelist [BlueSky](https://lindadong.bsky.social)
 - Josh Tidsbury, Apple Evangelist [BlueSky](https://joshtidsbury.bsky.social)
+- Dr Mark Powell [Mastodon](https://mastodon.social/@Drmarkpowell@iosdev.space)
 
 #### Meetups
 
