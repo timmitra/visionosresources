@@ -65,6 +65,8 @@ My collection of awesome[^1] visionOS code and resources
 - [SGM (Shader Graph Material) Examples in visionOS](https://github.com/ynagatomo/SGMExamples)
 - [ShaderGraph on Apple Docs](https://developer.apple.com/documentation/ShaderGraph)
 - [Happy Clouds on Apple Vision Pro: Demystifying Shader Graph Materials in Reality Composer Pro](https://youtu.be/BCEJDZndw_g)
+- [Understanding Texture Maps - Shader Graph Basics - Episode 5](https://youtu.be/WJkEacYRhPU)
+- [Capture and Create your own Custom 3D Materials | FULL WORKFLOW](https://youtu.be/rGBet4SZaXg)
 
 ##### SkyBox
 
