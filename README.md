@@ -127,6 +127,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Miscellaneous
 
 - [Adobe Substance 3D Assets](https://substance3d.adobe.com/assets/)
+- [3D Movies on Vision Pro](https://github.com/timmitra/3DMoviesVisionPro)
 
 #### Hackathons
 
@@ -231,6 +232,7 @@ My collection of awesome[^1] visionOS code and resources
 - Linda Dong, Apple Evangelist [BlueSky](https://lindadong.bsky.social)
 - Josh Tidsbury, Apple Evangelist [BlueSky](https://joshtidsbury.bsky.social)
 - Dr Mark Powell [Mastodon](https://mastodon.social/@Drmarkpowell@iosdev.space)
+- Roxana Nagy [Bluesky](@coderox.bsky.social)
 
 #### Meetups
 
