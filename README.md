@@ -54,6 +54,10 @@ My collection of awesome[^1] visionOS code and resources
 - [Performing a rotation transform on an already transformed entity in a RealityView](https://forums.developer.apple.com/forums/thread/751825)
 - [Simulating physics joints in your RealityKit app](https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app)
 
+#### Widgets
+
+- [Widgets – Getting started with visionOS Widgets](https://stepinto.vision/example-code/widgets-getting-started-with-visionos-widgets/)
+
 ##### ARKit
 
 - [TimeForCube - updated](https://github.com/timmitra/TimeForCube/) Based on WWDC23 video, code updated to work.
@@ -233,6 +237,7 @@ My collection of awesome[^1] visionOS code and resources
 - Josh Tidsbury, Apple Evangelist [BlueSky](https://joshtidsbury.bsky.social)
 - Dr Mark Powell [Mastodon](https://mastodon.social/@Drmarkpowell@iosdev.space)
 - Roxana Nagy [Bluesky](@coderox.bsky.social)
+- Justin Ryan [Threads](https://www.threads.com/@justinryan.io), [YouTube](https://www.youtube.com/@JustinRyanio)
 
 #### Meetups
 
