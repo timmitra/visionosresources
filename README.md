@@ -123,6 +123,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Object Capture for iOS](https://docs-assets.developer.apple.com/published/0710477dca91/ScanningObjectsUsingObjectCapture.zip) roll your own usdz
 - [Sketchfab](https://sketchfab.com/) will become [FAB](https://fab.com) in October
 - [Apple's QuickLook VR Gallery](https://developer.apple.com/augmented-reality/quick-look/)
+- [Metaballs](https://apps.apple.com/ca/app/metaballs/id6748781900) spatial modelling app that exports to USDZ and STL
 
 #### Accessibility
 
@@ -132,6 +133,7 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Adobe Substance 3D Assets](https://substance3d.adobe.com/assets/)
 - [3D Movies on Vision Pro](https://github.com/timmitra/3DMoviesVisionPro)
+- [raven.vision](https://raven.vision) another visionOS resource.
 
 #### Hackathons
 
