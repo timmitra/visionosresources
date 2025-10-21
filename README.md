@@ -126,6 +126,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Sketchfab](https://sketchfab.com/) will become [FAB](https://fab.com) in October
 - [Apple's QuickLook VR Gallery](https://developer.apple.com/augmented-reality/quick-look/)
 - [Metaballs](https://apps.apple.com/ca/app/metaballs/id6748781900) spatial modelling app that exports to USDZ and STL
+- [Awesome OpenUSD](https://github.com/matiascodesal/awesome-openusd) A curated list of awesome Universal Scene Description (OpenUSD) resources and projects.
 
 #### Accessibility
 
