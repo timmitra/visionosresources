@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/timmitra/visionosresources"><img alt="awesome" src="https://github.com/timmitra/visionosresources/images/awesome-itguy-avp.png" width="480" /></a>
+  <img width="1000" height="750" alt="awesome-itguy-avp" src="https://github.com/user-attachments/assets/1b94c1c2-97c1-4707-be67-f2b3d0a2ad1a" />
 </p>
 <p align="center">
   <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
