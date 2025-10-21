@@ -202,6 +202,10 @@ My collection of awesome[^1] visionOS code and resources
 
 - [SwiftUI Field Guide](https://swiftuifieldguide.com)
 
+#### Awesome visionOS Lists
+
+- [awesome visionOS](https://github.com/tomkrikorian/awesome-visionOS) - Tom Krikorian
+
 #### Books
 
 - [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/3AKkx6X) -John Ray
