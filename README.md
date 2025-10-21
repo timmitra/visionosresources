@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/timmitra/visionosresources"><img alt="awesome" src="https://github.com/timmitra/visionosresources/images/awesome-itguy-avp.png" width="480" /></a>
+</p>
+<p align="center">
+  <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
+</p>
+
 # Awesome visionOS Resources
 
 My collection of awesome[^1] visionOS code and resources
