@@ -120,7 +120,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Apple Design Resources on Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
 - [visionOS App Icon Web Previewer](https://gnikoloff.github.io/visionos-web-app-icon-maker/) This web-based tool allows you to arrange, preview, and export app icons for visionOS—no need to install Xcode or Parallax Previewer.
 
-#### USDz
+#### USD (aka OpenUSD)
 
 - [Object Capture for iOS](https://docs-assets.developer.apple.com/published/0710477dca91/ScanningObjectsUsingObjectCapture.zip) roll your own usdz
 - [Sketchfab](https://sketchfab.com/) will become [FAB](https://fab.com) in October
