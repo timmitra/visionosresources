@@ -139,6 +139,11 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Accessibility - Vision](https://www.apple.com/accessibility/vision/)
 
+#### Newsletters
+
+- [diff visionOS](https://it-guy-technologies.kit.com) companion newsletter to this resource page.
+- [Step Into Vision Newsletter](https://stepinto.vision/articles/step-into-newsletter-september-26-2025/)
+
 #### Miscellaneous
 
 - [Adobe Substance 3D Assets](https://substance3d.adobe.com/assets/)
@@ -187,6 +192,7 @@ My collection of awesome[^1] visionOS code and resources
 #### Opportunities
 
 - [Apple: Calling all vision casters... ](https://www.linkedin.com/posts/benza_calling-all-vision-casters-design-leaders-activity-7232616109688905728-66Qx)
+- [Shared Visions](https://stepinto.vision/articles/shared-visions-a-community-project/) - they're making a documentary about developers on Vision Pro and XR. Get involved.
 
 #### Funding
 
