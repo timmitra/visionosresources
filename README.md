@@ -72,6 +72,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Happy Clouds on Apple Vision Pro: Demystifying Shader Graph Materials in Reality Composer Pro](https://youtu.be/BCEJDZndw_g)
 - [Understanding Texture Maps - Shader Graph Basics - Episode 5](https://youtu.be/WJkEacYRhPU)
 - [Capture and Create your own Custom 3D Materials | FULL WORKFLOW](https://youtu.be/rGBet4SZaXg)
+- [Shader Graph Tutorial - Feathered Edges](https://youtu.be/fRfLZ3LtuQM)
 
 ##### SkyBox
 
