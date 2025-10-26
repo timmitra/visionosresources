@@ -80,6 +80,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Understanding Texture Maps - Shader Graph Basics - Episode 5](https://youtu.be/WJkEacYRhPU)
 - [Capture and Create your own Custom 3D Materials | FULL WORKFLOW](https://youtu.be/rGBet4SZaXg)
 - [Shader Graph Tutorial - Feathered Edges](https://youtu.be/fRfLZ3LtuQM)
+- [How To Make Layered Fog In 60 Seconds](https://www.linkedin.com/posts/gregorywieber_how-to-make-layered-fog-on-apple-vision-pro-activity-7386091885091590144-dilE)
 
 ##### SkyBox
 
