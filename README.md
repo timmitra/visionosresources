@@ -135,6 +135,10 @@ My collection of awesome[^1] visionOS code and resources
 - [Metaballs](https://apps.apple.com/ca/app/metaballs/id6748781900) native visionOS spatial modelling app that exports to USDZ and STL
 - [Awesome OpenUSD](https://github.com/matiascodesal/awesome-openusd) A curated list of awesome Universal Scene Description (OpenUSD) resources and projects.
 
+#### Logitech Muse and other controllers
+
+- [Logitech Muse Stylus Integration](https://gist.github.com/durul/70efad754c2c7f6fd21fed30c7f935e6)
+
 #### Accessibility
 
 - [Accessibility - Vision](https://www.apple.com/accessibility/vision/)
