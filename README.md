@@ -61,6 +61,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Tap Entity to Show Attachment](https://github.com/timmitra/TapAttachment)
 - [Performing a rotation transform on an already transformed entity in a RealityView](https://forums.developer.apple.com/forums/thread/751825)
 - [Simulating physics joints in your RealityKit app](https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app)
+- [How to Build an Immersive RealityKit Scene Using the ECS Architecture](https://swiftorbit.io/realitykit-ecs-floating-brick/)
 
 #### Widgets
 
