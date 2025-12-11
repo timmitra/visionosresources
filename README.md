@@ -117,6 +117,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Creating 3D Models as Moveable Windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos)
 - [Creating Immersive Spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui)
 - [Generating procedural textures](https://developer.apple.com/documentation/visionos/generating-procedural-textures-in-visionos) Pro Tip: Disable Metal API Validation to run on Vision Pro simulator
+- [Integrating virtual objects with your environment](https://developer.apple.com/documentation/realitykit/integrating-virtual-objects-with-your-environment)
 
 #### Particles
 
@@ -140,6 +141,9 @@ My collection of awesome[^1] visionOS code and resources
 #### Logitech Muse and other controllers
 
 - [Logitech Muse Stylus Integration](https://gist.github.com/durul/70efad754c2c7f6fd21fed30c7f935e6)
+- [Tracking a handheld accessory as a virtual sculpting tool](https://developer.apple.com/documentation/RealityKit/tracking-a-handheld-accessory-as-a-virtual-sculpting-tool)
+- [ImmersiveStylusSimpleExampleView.swift](https://gist.github.com/Matt54/553b2f6afcb0b42963636c8973b023f0) by Matt Pfeiffer
+- [ImmersiveSenseControllerInputsView.swift](https://gist.github.com/Matt54/f0baea72bb5e8acd81ae1e99493f71e7)
 
 #### Accessibility
 
