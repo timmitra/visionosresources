@@ -144,6 +144,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Tracking a handheld accessory as a virtual sculpting tool](https://developer.apple.com/documentation/RealityKit/tracking-a-handheld-accessory-as-a-virtual-sculpting-tool)
 - [ImmersiveStylusSimpleExampleView.swift](https://gist.github.com/Matt54/553b2f6afcb0b42963636c8973b023f0) by Matt Pfeiffer
 - [ImmersiveSenseControllerInputsView.swift](https://gist.github.com/Matt54/f0baea72bb5e8acd81ae1e99493f71e7)
+- [Drawing in the air and on surfaces with a spatial stylus](https://developer.apple.com/documentation/visionos/drawing-in-the-air-and-on-surfaces-with-a-spatial-stylus)
 
 #### Accessibility
 
