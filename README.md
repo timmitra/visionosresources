@@ -103,6 +103,11 @@ My collection of awesome[^1] visionOS code and resources
 
 - [How to build your first Apple Vision Pro app featuring Ready Player Me Avatars and Unity PolySpatial package](https://readyplayer.me/blog/how-to-build-your-first-apple-vision-pro-app-featuring-ready-player-me-avatars-and-unity-polyspatial-package)
 
+#### Blender
+
+- [AVP Animation Exporter Pro](https://github.com/StepIntoVision/avpexport) plug-in to export USDz with animations for Vision Pro
+- [Vision Pro Blender Live Streamer](https://github.com/SouthwestAir/Vision-Pro-Blender-Live-Streamer)
+
 #### Spatial Photography
 
 - [Create Spatial Photos for Apple Vision Pro with Blender](https://www.youtube.com/watch?v=nMQ1Gw7_Ybg)
