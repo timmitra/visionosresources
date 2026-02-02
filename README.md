@@ -188,7 +188,7 @@ My collection of awesome[^1] visionOS code and resources
 - [Vision Pro Shoulder Arthroscopy](https://youtu.be/YjxrKtX-Z1Q?si=npqXijqCAJhc6e91)
 - [MV Converter](https://mvconverter.app) - convert videos to MV-HEVC format
 
-#### Conferences/Events
+#### Conferences Events
 
 - [Let's visionOS 2025](https://letsvisionos.swiftgg.team/) - Shanghai March 28-29, 2026
 - [Swift Rockies 2026 - Calgary](https://swiftrockies.com) July 22-23 + workshops before & after
