@@ -192,7 +192,7 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Aussie visionOS Day - Melbourne](https://events.humanitix.com/aussie-visionos-melb) on the 25th October (9am - 5pm)
 - Aussie visionOS Day - Sydney, [Contact](https://events.humanitix.com/copy-of-aussie-visionos-day-sydney/contact), Fri 6 Dec 2024, 9am - 5pm AEDT
-- [Let's visionOS 2025](https://letsvisionos.swiftgg.team/page/index.html) - Beijing March 01-02, 2025
+- [Let's visionOS 2025](https://letsvisionos.swiftgg.team/) - Shanghai March 28-29, 2026
 - [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
 - [SwiftUI tips & Immersive Video scoops: what I learned from a Vision Pro daytrip to Apple HQ](https://medium.com/@portemantho/swiftui-tips-immersive-video-scoops-what-i-learned-from-a-vision-pro-daytrip-to-apple-hq-633f5a0b6a5c)
 - [Experience Vision](https://www.experiencevision.io) - Paris Feb 6, 2025
