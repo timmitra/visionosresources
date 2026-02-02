@@ -157,7 +157,7 @@ My collection of awesome[^1] visionOS code and resources
 
 - [Adobe Substance 3D Assets](https://substance3d.adobe.com/assets/)
 - [3D Movies on Vision Pro](https://github.com/timmitra/3DMoviesVisionPro)
-- [raven.vision](https://raven.vision) another visionOS resource.
+- [raven.vision](https://raven.vision) another visionOS resource. New App aggregator.
 
 #### Hackathons
 
