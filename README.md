@@ -100,6 +100,7 @@ My collection of awesome[^1] visionOS code and resources
 
 - [AVP Animation Exporter Pro](https://github.com/StepIntoVision/avpexport) plug-in to export USDz with animations for Vision Pro
 - [Vision Pro Blender Live Streamer](https://github.com/SouthwestAir/Vision-Pro-Blender-Live-Streamer)
+- [Blender to RCP export plugin](https://github.com/tomkrikorian/BlenderToRCP/tree/fix/export-blender-5.1)
 
 #### Spatial Photography
 
