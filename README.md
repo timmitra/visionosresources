@@ -9,7 +9,7 @@
 
 My collection of awesome[^1] visionOS code and resources
 
-[Sample Code](#sample-code) - [General](#general) - [Reality Composer Pro](#reality-composer-pro) - [RealityKit](#realitykit) - [Widgets](#widgets) - [ARKit](#arkit) - [ShaderGraph](#shadergraph) - [SkyBox](#skybox) - [WebXR](#webxr) - [Unity](#unity) - [Blender](#blender) - [Spatial Photography](#spatial-photography) - [Apple](#apple) - [Particles](#particles) - [Design](#design) - [USD (aka OpenUSD)](#usd--aka-openusd-) - [Logitech Muse and other controllers](#logitech-muse-and-other-controllers) - [Accessibility](#accessibility) - [Newsletters](#newsletters) - [Hackathons](#hackathons) - [Videos](#videos) - [Socials](#socials) - [App Videos (inspiration)](#app-videos--inspiration-) - [Conferences/Events](#conferences-events) - [Funding](#funding) - [SwiftUI/UIKit](#swiftui-uikit) - [Books](#books) - [Hardware & Accessories](#hardware---accessories) - [Who to Follow](#who-to-follow) - [Meetups](#meetups) - [App Lists](#app-lists) - [More Lists](#more-lists) - [My code samples](#my-code-samples) - [Courses](#courses) - [My Conference Videos](#my-conference-videos) - [Miscellaneous](#miscellaneous) - [How to Contribute](#how-to-contribute)
+[Sample Code](#sample-code) - [General](#general) - [Reality Composer Pro](#reality-composer-pro) - [RealityKit](#realitykit) - [Widgets](#widgets) - [ARKit](#arkit) - [ShaderGraph](#shadergraph) - [SkyBox](#skybox) - [WebXR](#webxr) - [Unity](#unity) - [Blender](#blender) - [Spatial Photography](#spatial-photography) - [Apple](#apple) - [Particles](#particles) - [Design](#design) - [USD (aka OpenUSD)](#usd--aka-openusd-) - [Logitech Muse and other controllers](#logitech-muse-and-other-controllers) - [Accessibility](#accessibility) - [Newsletters](#newsletters) - [Hackathons](#hackathons) - [Videos](#videos) - [Socials](#socials) - [App Videos (inspiration)](#app-videos--inspiration-) - [Conferences/Workshops/Events](#conferences-events) - [Funding](#funding) - [SwiftUI/UIKit](#swiftui-uikit) - [Books](#books) - [Hardware & Accessories](#hardware---accessories) - [Who to Follow](#who-to-follow) - [Meetups](#meetups) - [App Lists](#app-lists) - [More Lists](#more-lists) - [My code samples](#my-code-samples) - [Courses](#courses) - [My Conference Videos](#my-conference-videos) - [Miscellaneous](#miscellaneous) - [How to Contribute](#how-to-contribute)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -190,10 +190,12 @@ My collection of awesome[^1] visionOS code and resources
 - [Vision Pro Shoulder Arthroscopy](https://youtu.be/YjxrKtX-Z1Q?si=npqXijqCAJhc6e91)
 - [MV Converter](https://mvconverter.app) - convert videos to MV-HEVC format
 
-#### Conferences Events
+#### Conferences,Workshops, Events
 
-- [Let's visionOS 2025](https://letsvisionos.swiftgg.team/) - Shanghai March 28-29, 2026
+- [Hand's On With VisionOS - Tim Mitra](https://swiftrockies.com/tim-visionos-workshop) - Workshop pre-Swift Rockies Conference July 21, 2026
+- [Hello, Spatial Computing: Developing With & For Vision Pro - Tim Mitra](https://swiftrockies.com/#agenda) swiftrockies.com
 - [Swift Rockies 2026 - Calgary](https://swiftrockies.com) July 22-23 + workshops before & after
+- [Let's visionOS 2025](https://letsvisionos.swiftgg.team/) - Shanghai March 28-29, 2026
 - [Aussie visionOS Day - Melbourne](https://events.humanitix.com/aussie-visionos-melb) on the 25th October, 2025 (9am - 5pm)
 - Aussie visionOS Day - Sydney, [Contact](https://events.humanitix.com/copy-of-aussie-visionos-day-sydney/contact), Fri 6 Dec 2024, 9am - 5pm AEDT
 - [Envision the future: Build great apps for visionOS](https://developer.apple.com/events/view/ZCH7ZUY24C/dashboard) Oct 2, 2024 - Apple: Cupertino
