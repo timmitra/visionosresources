@@ -227,6 +227,8 @@ My collection of awesome[^1] visionOS code and resources
 
 #### Hardware & Accessories
 
+- [ZEISS Optical Inserts for Apple Vision Pro.](https://www.zeiss.com/vision-care/us/zeiss-optical-inserts.html)
+- [Adjustable VR Prescription Lenses For Apple Vision Pro](https://voyglasses.com/products/adjustable-vr-prescription-lens-for-apple-vision-pro)
 - [3D Glass for iPhone](https://spatial-glass.com)
 - [Spigen Apple Vision Pro Head Strap](https://www.spigen.com/products/apple-vision-pro-head-strap)
 - [AnnaPro A1 - pressure reducing head strap](https://annapro.com/products/comfort-head-strap-for-apple-vision-pro)
