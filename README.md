@@ -108,6 +108,10 @@ My collection of awesome[^1] visionOS code and resources
 - [Spatial Photo Embeds in Safari](https://michaelverdi.com/blog/2024/12/06/testing-spatial-photo-and-video-embeds/)
 - [Displaying a stereoscopic image](https://developer.apple.com/documentation/visionos/creating-stereoscopic-image-in-visionos)
 
+#### Audio
+
+- [A Swift-based multiplatform spatial audio engine for XR](https://github.com/comdigis-community/IO)
+
 ##### Apple
 
 - [Creating 2D Shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui)
