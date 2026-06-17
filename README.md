@@ -56,9 +56,13 @@ My collection of awesome[^1] visionOS code and resources
 - [Simulating physics joints in your RealityKit app](https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app)
 - [How to Build an Immersive RealityKit Scene Using the ECS Architecture](https://swiftorbit.io/realitykit-ecs-floating-brick/)
 
-#### Widgets
+##### Widgets
 
 - [Widgets – Getting started with visionOS Widgets](https://stepinto.vision/example-code/widgets-getting-started-with-visionos-widgets/)
+
+##### Agentic Coding
+
+- [visionOS AGENTS & Skills](https://github.com/tomkrikorian/visionOSAgents)
 
 ##### ARKit
 
