@@ -165,6 +165,8 @@ My collection of awesome[^1] visionOS code and resources
 - [3D Movies on Vision Pro](https://github.com/timmitra/3DMoviesVisionPro)
 - [raven.vision](https://raven.vision) another visionOS resource. New App aggregator.
 
+#### Developer Strap
+- [VisionDrop](https://github.com/rebelancap/VisionDrop) connect your AVP to Ethernet
 #### Hackathons
 
 - [Vision Hack](https://www.visionoshackathon.com) Sept 13-15, 2024
